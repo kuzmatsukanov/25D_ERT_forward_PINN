@@ -1,0 +1,7 @@
+deepxde==1.14.0
+matplotlib==3.10.8
+numpy==2.4.2
+pandas==3.0.0
+scipy==1.17.0
+siren_pytorch==0.1.7
+torch==2.7.1
