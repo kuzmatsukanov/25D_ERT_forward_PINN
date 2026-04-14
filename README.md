@@ -9,7 +9,7 @@ This repository contains the official PyTorch implementation of the paper:
 **"A Mesh-Free Forward Solver for 2.5D Electrical Resistivity Tomography using Physics-Informed Neural Networks"**
 
 **Authors:** [Kuzma Tsukanov], [Caner Sakar], [Ziv Moreno]  
-**Journal:** Submitted to *Computers & Geosciences*
+**Journal:** Submitted to *Journal of Geophysical Research: Machine Learning and Computation*
 
 ---
 
